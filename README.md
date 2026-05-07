@@ -1,4 +1,4 @@
-# NETANEL DANUR WENDRA DASHBOARD ✨
+# DASHBOARD
 
 ## Setup 
 ```
