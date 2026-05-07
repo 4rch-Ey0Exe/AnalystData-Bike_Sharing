@@ -1,4 +1,8 @@
+
 # DASHBOARD
+=======
+# DASHBOARD 
+>>>>>>> 8e33098 (project deplyment)
 
 ## Setup 
 ```
