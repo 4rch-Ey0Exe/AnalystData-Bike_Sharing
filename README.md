@@ -1,5 +1,3 @@
-# DASHBOARD
-
 # DASHBOARD 
 
 ## Setup 
